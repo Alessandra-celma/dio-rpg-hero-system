@@ -1,5 +1,4 @@
 # dio-rpg-hero-system
-RPG Hero System
 # Jogo de Heróis - Classes e Ataques
 
 ## Descrição
