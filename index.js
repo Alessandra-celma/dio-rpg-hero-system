@@ -24,7 +24,7 @@ const heroi3 = new Heroi("ju cook", 80, "O monge");
 const heroi4 = new Heroi("Zenkai", 29, "O ninja");
 
 
-heroi1.atacar(); // Output: guerreiro, atacou usando a lãmina 
-heroi2.atacar(); // Output: mago, atacou usando explosão arcana
+heroi1.atacar(); // Output: mago, atacou usando explosão arcana
+heroi2.atacar(); // Output: guerreiro, atacou usando lâmina
 heroi3.atacar(); // Output: monge, atacou usando soco de ferro
 heroi4.atacar(); // Output: ninja, atacou usando katana
